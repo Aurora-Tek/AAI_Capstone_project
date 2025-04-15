@@ -11,7 +11,7 @@
 ├── models # Folder with models code 
     └── cnn_tabular_multilabel # Multilable, hybrid CNN model iteration
     └── efficienet # Model with pretrained Efficient model  
-    └── interations # Additional models used for debugging and hypothesis testing 
+    └── iterations # Additional models used for debugging and hypothesis testing 
 ├── DataPreprocessing-EDA.ipynb - EDA and Data-preprocessing notebook
 ├── Preprocesing_Pipeline.ipynb - Shared preprocessing steps for Hybrid and EfficientNet training 
 └── image_scale.py # Script for scaling images using multithreading
